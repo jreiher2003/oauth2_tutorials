@@ -1,1 +1,1 @@
-### oauth code with python and flask
+### oauth 2.0 code with python and flask
